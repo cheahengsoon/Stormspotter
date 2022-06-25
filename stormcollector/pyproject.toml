@@ -7,7 +7,7 @@ authors = ["Leron Gray <legra@microsoft.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 loguru = "^0.5.1"
-aiohttp = "^3.6.2"
+aiohttp = "^3.8.1"
 msal_extensions = "^0.2.2"
 portalocker = "^1.7.1"
 azure-common = "^1.1.25"
